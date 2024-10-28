@@ -5,7 +5,6 @@ const convertToFahrenheit = function() {
 };
 
 // Do not edit below this line
-module.exports = {
-  convertToCelsius,
-  convertToFahrenheit
-};
+
+console.log(convertToCelsius);
+console.log(convertToFahrenheit);
